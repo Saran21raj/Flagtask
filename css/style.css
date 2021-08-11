@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.outerBox{
+    width: 13rem;
+    height: 20rem;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+.flag{
+    width: 13rem;
+    height: 8rem;
+}
